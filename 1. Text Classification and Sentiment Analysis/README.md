@@ -1,3 +1,5 @@
+# Text Classification and Sentiment Analysis
+
 This topic covers tasks that involve assigning labels or categories to text.
 
 Includes: Sentiment Analysis, Spam Detection, Personality Classificaiton, Fake News Detection, Emotion Classification, Hate Speech Detection, etc.
