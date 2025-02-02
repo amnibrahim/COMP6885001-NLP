@@ -19,5 +19,9 @@ This project is an  initiative for second-year undergraduate students studying N
 - https://www.kaggle.com/datasets
 - https://archive.ics.uci.edu/
 
-## **4. IEEE research paper template:**
+## **4. Output:** 
+- Presentation and application demo in Week 13
+- Research paper (optional)
+
+## **5. IEEE research paper template:**
 - https://www.ieee.org/conferences/publishing/templates.html
