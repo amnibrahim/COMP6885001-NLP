@@ -21,7 +21,7 @@ This project is an  initiative for second-year undergraduate students studying N
 
 ## **4. Output:** 
 - Presentation and application demo in Week 13
-- Research paper (optional)
+- Research paper (optional but earn extra credit in Assignment (auto 100) and UAS (+20))
 
 ## **5. IEEE research paper template:**
 - https://www.ieee.org/conferences/publishing/templates.html
