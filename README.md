@@ -1,6 +1,6 @@
-# NLP Research Project (Optional for Extra Credit)
+# NLP Project
 
-This project is an optional initiative for third-year undergraduate students studying Natural Language Processing (NLP). The goal is to encourage students to explore NLP concepts, read relevant literature, and conduct simple experiments. Students will write their findings in the format of a research paper. **Accepted paper in conference/journal earns extra credit of: Assignment (auto 100) + UAS (+20)**
+This project is an  initiative for second-year undergraduate students studying Natural Language Processing (NLP). The goal is to encourage students to explore NLP concepts, read relevant literature, and conduct simple experiments. Students will write their findings in the format of a research paper. **Accepted paper in conference/journal earns extra credit of: Assignment (auto 100) + UAS (+20)**
 
 ## **1. Literature Sources:**
 - https://scholar.google.com/
